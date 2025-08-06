@@ -1,2 +1,2 @@
 # Shoot_Branching_PSoup
-In this repisotory there is code on how thos model was created trained and tested. Also, there is a shinny app that anyone can use to use the model in an easy way.
+This repository includes the code used to build, train, and test the model, as well as the sensitivity analysis scripts and the dataset used throughout the process.
